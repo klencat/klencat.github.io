@@ -1,6 +1,3 @@
-Name
-# klencat.github.io
-
 Test Link
 # Testing
 
