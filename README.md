@@ -1,4 +1,4 @@
-Test Link
-# Testing
+This website is still in development!
+# Main Site
 
-Clicking [this link](./MainSite/TestSite.html)
+Link to [Main Site](./MainSite/TestSite.html)
